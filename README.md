@@ -1,8 +1,12 @@
-# usefulcombos
+# Useful Combo's
+
+This repo consist out of some images that includes standard combos that I myself use. Each image is based on other docker images.
+
+If you would like to have extra combo's, please let me know!
 
 ## Combo's
 
-### python
+### Python
 
 The current availabe python images are:
 
@@ -10,7 +14,7 @@ The current availabe python images are:
 - `python2-flask`: Combo of python 2 extended with flask.
 - `python3-flask`: Combo of python 3 extended with flask.
 
-### java
+### Java
 
 The current availabe java images are:
 
